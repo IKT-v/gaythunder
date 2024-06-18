@@ -1,0 +1,17 @@
+{
+  "GamemodeInfo": "0x4D57800",
+  "CHud": "0x4DA65F8",
+  "CGame": "0x4DB00F8",
+  "SpectUnit": "0x4DBE368",
+  "LocalUnit": "0x4DBE370",
+  "Map": "0x4DF5190",
+  "Mission": "0x4DF58E8",
+  "CurrentGamemode": "0x4DF5F90",
+  "ViewMatrix": "0x4E1C800",
+  "PlayerList": "0x4E2B140",
+  "PlayerCount": "0x4E2B150",
+  "LocalPlayer": "0x4E2B158",
+  "NetworkInfo": "0x4E2B9D8",
+  "Radar": "0x4E44F04",
+  "Projectiles": "0x4E46FA8"
+}
