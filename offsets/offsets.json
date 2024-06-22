@@ -8,10 +8,10 @@
   "Mission": "0x4F93718",
   "CurrentGamemode": "0x4F93DC0",
   "ViewMatrix": "0x4FBC2F0",
-  "PlayerList": "0x4FD2AD8",
-  "PlayerCount": "0x4FD2AE8",
-  "LocalPlayer": "0x4FD2AF0",
-  "NetworkInfo": "0x4FD3438",
-  "Radar": "0x4FEF2C4",
-  "Projectiles": "0x4FF1368"
+  "PlayerList": "0x4FD2B88",
+  "PlayerCount": "0x4FD2B98",
+  "LocalPlayer": "0x4FD2BA0",
+  "NetworkInfo": "0x4FD34E8",
+  "Radar": "0x4FEF374",
+  "Projectiles": "0x4FF1418"
 }
